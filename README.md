@@ -46,7 +46,7 @@ não seja nulo, irá retornar um componente "card" contendo a imagem juntamente 
 <li>category</li>
 <li>price</li>
 <li>description</li>
-<li>comments: Este é um array que propriedades:id,rating,comment,author,date.</li>
+<li>comments: Este é um array que tem as seguintes propriedades:id,rating,comment,author,date.</li>
 </ul>
 <h3>Qual tipo de date é utilizado?</h3>
 <p>O date utilizado é o ISO 8601 e ele é usado para facilitar o processamento e a comparação de datas e horas em diferentes sistemas e linguagens de programação.</p>
